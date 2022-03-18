@@ -1,0 +1,4 @@
+repository "BogaziciGamejam (1)@lexontr@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 717ecc7c3d391404aa1f142ba1457c1e, type: 3}
+  m_Name: Paper
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7954240806335393159, guid: da09aa079e3501e499ae26640327baea, type: 3}
+  itemName: Paper
+  icon: {fileID: 21300000, guid: bc27ca1973009a44dae9a530667bb7cb, type: 3}
+  requireItem: 0
